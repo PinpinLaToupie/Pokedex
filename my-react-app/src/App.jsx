@@ -23,5 +23,4 @@ const pokemonList = [
   },
 ];
 
-
 export default App
