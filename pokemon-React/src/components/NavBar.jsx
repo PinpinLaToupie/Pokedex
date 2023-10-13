@@ -1,4 +1,5 @@
 
+
 function NavBar(props) {
     return (
         <div className="navbar">
